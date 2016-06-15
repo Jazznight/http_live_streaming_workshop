@@ -5,9 +5,11 @@ HTTP Adaptive Live Streaming workshop - build up MPD for MPEG-DAH and M3U8 fro H
 
 ##  Example mp4 video files
 - 1080p mp4, 25 sec, 7MB
-  -   http://workshop.jznight.net/101_1080p_25sec.mp4
+  - http://workshop.jznight.net/101_1080p_25sec.mp4
+  - (Mirror) https://app.box.com/s/t08lhjsmjx41k7minwxm1jclvdcz14u1
 - 720p mp4, 200 sec, 50MB
   - http://workshop.jznight.net/GOG_720p_200sec.mp4
+  - (Mirror) https://app.box.com/s/hu8cjm3gt7nenl77xibcbdf70vfzmy0x
 
 
 ## How to start?
